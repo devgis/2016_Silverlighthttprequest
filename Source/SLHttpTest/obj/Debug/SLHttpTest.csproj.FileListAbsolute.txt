@@ -1,0 +1,12 @@
+E:\研究\work\SLHttpTest\SLHttpTest\Bin\Debug\SLHttpTest.dll
+E:\研究\work\SLHttpTest\SLHttpTest\Bin\Debug\SLHttpTest.pdb
+E:\研究\work\SLHttpTest\SLHttpTest\Bin\Debug\AppManifest.xaml
+E:\研究\work\SLHttpTest\SLHttpTest\Bin\Debug\SLHttpTest.xap
+E:\研究\work\SLHttpTest\SLHttpTest\Bin\Debug\SLHttpTestTestPage.html
+E:\研究\work\SLHttpTest\SLHttpTest\obj\Debug\ResolveAssemblyReference.cache
+E:\研究\work\SLHttpTest\SLHttpTest\obj\Debug\App.g.i.cs
+E:\研究\work\SLHttpTest\SLHttpTest\obj\Debug\MainPage.g.i.cs
+E:\研究\work\SLHttpTest\SLHttpTest\obj\Debug\SLHttpTest.g.resources
+E:\研究\work\SLHttpTest\SLHttpTest\obj\Debug\SLHttpTest.dll
+E:\研究\work\SLHttpTest\SLHttpTest\obj\Debug\SLHttpTest.pdb
+E:\研究\work\SLHttpTest\SLHttpTest\obj\Debug\XapCacheFile.xml

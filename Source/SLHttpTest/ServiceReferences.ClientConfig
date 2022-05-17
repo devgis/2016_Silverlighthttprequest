@@ -1,0 +1,16 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="HttpHelperSoap" maxBufferSize="2147483647" maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost:1218/HttpHelper.asmx" binding="basicHttpBinding"
+                bindingConfiguration="HttpHelperSoap" contract="MYHTTPSR.HttpHelperSoap"
+                name="HttpHelperSoap" />
+        </client>
+    </system.serviceModel>
+</configuration>
